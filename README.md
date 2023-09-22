@@ -1,13 +1,13 @@
 # Aruco Pose Estimator
 ### This Python application uses OpenCV to detect ArUco markers and estimate their 3D pose relative to the camera.
-
+![Vizualization](https://github.com/RakhmatovShohruh/Aruco-Pose_Estimator/blob/main/results/result.gif?raw=true)
 
 ## Table of Contents
 
-1. [Features](https://github.com/RakhmatovShohruh/#Features)
-2. [Installation](https://github.com/RakhmatovShohruh/Camera_Calibration#Installation)
-3. [Usage](https://github.com/RakhmatovShohruh/Camera_Calibration#Usage)
-4. [Generating](https://github.com/RakhmatovShohruh/#Features)
+1. [Features](https://github.com/RakhmatovShohruh/Aruco-Pose_Estimator/tree/main#features)
+2. [Installation](https://github.com/RakhmatovShohruh/Aruco-Pose_Estimator/tree/main#installation)
+3. [Usage](https://github.com/RakhmatovShohruh/Aruco-Pose_Estimator/tree/main#usage)
+4. [Generating](https://github.com/RakhmatovShohruh/Aruco-Pose_Estimator/tree/main#generating-compatible-aruco-markers)
 
 ## Features
 
