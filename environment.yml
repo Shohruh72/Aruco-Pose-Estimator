@@ -1,0 +1,54 @@
+name: temp
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - ca-certificates=2023.08.22=h06a4308_0
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - ncurses=6.4=h6a678d5_0
+  - openssl=1.1.1v=h7f8727e_0
+  - pip=23.2.1=py39h06a4308_0
+  - python=3.9.0=hdb3f193_2
+  - readline=8.2=h5eee18b_0
+  - setuptools=68.0.0=py39h06a4308_0
+  - sqlite=3.41.2=h5eee18b_0
+  - tk=8.6.12=h1ccaba5_0
+  - tzdata=2023c=h04d1e81_0
+  - wheel=0.38.4=py39h06a4308_0
+  - xz=5.4.2=h5eee18b_0
+  - zlib=1.2.13=h5eee18b_0
+  - pip:
+      - certifi==2023.7.22
+      - charset-normalizer==3.2.0
+      - contourpy==1.1.1
+      - cycler==0.11.0
+      - decorator==4.4.2
+      - ffmpeg-python==0.2.0
+      - fonttools==4.42.1
+      - future==0.18.3
+      - idna==3.4
+      - imageio==2.31.3
+      - imageio-ffmpeg==0.4.9
+      - importlib-resources==6.0.1
+      - kiwisolver==1.4.5
+      - matplotlib==3.8.0
+      - moviepy==1.0.3
+      - numpy==1.25.2
+      - opencv-contrib-python==4.5.3.56
+      - packaging==23.1
+      - pillow==10.0.1
+      - proglog==0.1.10
+      - psutil==5.9.5
+      - pyparsing==3.1.1
+      - python-dateutil==2.8.2
+      - requests==2.31.0
+      - six==1.16.0
+      - tqdm==4.66.1
+      - urllib3==2.0.5
+      - zipp==3.17.0
+prefix: /home/yusuf/miniconda3/envs/temp
